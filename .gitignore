@@ -1,0 +1,11 @@
+.venv
+__pycache__/
+*.pyc
+# raw dataset is not committed (see README)
+data/
+Student folder/
+# large intermediate files
+results/*.pkl
+results/models/*.pkl
+models/*.joblib
+!models/final_model.joblib
