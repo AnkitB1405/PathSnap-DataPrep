@@ -10,6 +10,8 @@ This repo has our data processing and cleaning stage. Problem statement and guid
 - Gaganaraj (gaganaraj) - data cleaning checks, label quality, search radius
 - Ananya Dharani (Ananya-Dharani) - Folium map, feature exploration
 
+Who did what, with details for each member: [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
+
 ## What is done
 
 - Reading all 4 file types for every trip, local metric projection per trip
