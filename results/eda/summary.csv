@@ -1,0 +1,3 @@
+partition,trips,points,median_points,invalid,trips_with_gap_10s,median_nodes,median_arcs
+student_test,10,19160,1420.0,0,2,6596.5,13145.0
+train,80,208417,1529.0,0,40,9608.0,19526.5
